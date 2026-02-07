@@ -1,2 +1,3 @@
-# lalithkaushikma.github.io
-1 clg project 
+# Trending Courses Portal for Students
+project for students
+
